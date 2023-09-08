@@ -8,3 +8,7 @@ I hope to get my MM/1 up and running with newer technology.
 First is to start with an upgrade to the Minibus.
 
 I have a working prototype that supports the newer ATX Power Supply.
+
+See the picture in the link:  https://github.com/HomerKH19/MM1-Updates/blob/main/MM1%20Minibus%20Prototype.pdf
+
+
