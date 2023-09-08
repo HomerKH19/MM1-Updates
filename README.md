@@ -11,4 +11,4 @@ I have a working prototype that supports the newer ATX Power Supply.
 
 See the picture in the link:  https://github.com/HomerKH19/MM1-Updates/blob/main/MM1%20Minibus%20Prototype.pdf
 
-
+Also the MM1 Tech Manual, Page 5-13 is updated, See my updated PDF.
