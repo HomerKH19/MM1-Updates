@@ -9,7 +9,9 @@ First is to start with an upgrade to the Minibus.
 
 I have a working prototype that supports the newer ATX Power Supply.
 
-See the picture:  
-Also the MM1 Tech Manual, Page 5-13 is updated.
+See the picture:
+https://github.com/HomerKH19/MM1-Updates/blob/main/20230906_120140%20Copy.jpg
+
+Also the MM1 Tech Manual, Page 5-13 has been updated.
 See the file:   https://github.com/HomerKH19/MM1-Updates/blob/main/MM1%20Buss.pdf
 
