@@ -20,7 +20,7 @@ Also the MM1 Tech Manual, Page 5-13 has been updated.
 See the file:  https://github.com/HomerKH19/MM1-Updates/blob/main/MM1%20Bus%20Pinout.pdf
 ### Goals
 - [X] Make replacement backplane that accepts an ATX style PSU
-- [ ] Assemble and test
+- [X] Assemble and test
 - [ ] Get Feedback
 - [ ] Work on upgardes to V1.5 of the PCB
 
