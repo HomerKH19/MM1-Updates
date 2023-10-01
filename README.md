@@ -3,13 +3,16 @@ MM/1 Software and Hardware Updates and Notes
 
 First of All, A big Thank You goes out to Paul Ward, from IMS, Inc. for Designing the MM/1 System.
 
-Update 09/08/2023
+Update 10/01/2023
 
 I hope to soon get my MM/1 up and running with newer technology.
 
 First is to start with an upgrade to the Minibus.
 
 I have a working prototype that supports the newer ATX Power Supply.
+
+Check this out for Memory Modules:
+https://www.youtube.com/watch?v=De5ufcDueRU&t=3920s
 
 A BIG THANKS goes out to Pedro Pena.
 
