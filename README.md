@@ -3,7 +3,7 @@ MM/1 Software and Hardware Updates and Notes
 
 First of All, A big Thank You goes out to Paul Ward, from IMS, Inc. for Designing the MM/1 System.
 
-Update 10/01/2023
+Update 10/22/2023
 
 I hope to soon get my MM/1 up and running with newer technology.
 
@@ -24,6 +24,6 @@ See the file:  https://github.com/HomerKH19/MM1-Updates/blob/main/MM1%20Bus%20Pi
 ### Goals
 - [X] Make replacement backplane that accepts an ATX style PSU
 - [X] Assemble and test
-- [ ] Get Feedback
-- [ ] Work on upgardes to V1.5 of the PCB
+- [X] Get Feedback
+- [ ] Work on upgardes to V 3.0 of the PCB
 
