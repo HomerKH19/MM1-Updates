@@ -26,6 +26,6 @@ See the file:  https://github.com/HomerKH19/MM1-Updates/blob/main/MM1%20Bus%20Pi
 - [X] Assemble and test
 - [X] Get Feedback
 - [ ] Work on upgardes to V 3.0 of the PCB
-      - [ ] Build Replacement Board
-      - [ ] Test
+- [ ] Build Replacement Board
+- [ ] Test
       
