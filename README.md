@@ -1,7 +1,7 @@
 # MM1-Updates
 MM/1 Software and Hardware Updates and Notes
 
-First of All, A big Thank You goes out to Paul Ward, from IMS, Inc. for Designing the MM/1 System.
+First of All, A big Thank You goes out to Paul Ward, from IMS, Inc. and Kevin Darling for Designing the MM/1 System.
 
 Update 10/23/2023
 
