@@ -14,9 +14,9 @@ I have a working prototype that supports the newer ATX Power Supply.
 Check this out for Memory Modules:
 https://www.youtube.com/watch?v=De5ufcDueRU&t=3920s
 
-A BIG THANKS goes out to Pedro Pena.
+A BIG THANKS goes out to the following people: Pedro Pena, Joel Ewy, David Graham.
 
-See the picture:
+See the picture of Pedro build:
 https://github.com/HomerKH19/MM1-Updates/blob/main/20230906_120140%20Copy.jpg
 
 Also the MM1 Tech Manual, Page 5-13 has been updated.
