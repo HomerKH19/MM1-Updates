@@ -33,7 +33,7 @@ A PDF of either BOM's are available to download.
 - [X] Make replacement backplane that accepts an ATX style PSU V 2.x
 - [X] Assemble and test
 - [X] Get Feedback
-- [ ] Work on upgardes to V 3.0 of the PCB
+- [ ] Work on upgrades to V 3.0 of the PCB
 - [ ] Build Replacement Board
 - [ ] Test
       
