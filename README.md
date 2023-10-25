@@ -9,7 +9,7 @@ First of All, A big Thank You goes out to Paul Ward, from IMS, Inc. and Kevin Da
 Also a BIG THANKS goes out to the following people's help: Pedro Pena, Joel Ewy & David Graham.
 The latter two helped with the troubleshooting back in the 90's for Paul & Kevin.
 
-I hope to soon get my MM/1 up and running with newer technology.
+I hope to soon get my MM/1 up and running with a new ATX power supply.
 
 First is to start with an upgrade to the Minibus.
 
