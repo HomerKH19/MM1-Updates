@@ -33,6 +33,6 @@ A PDF of either BOM's are available to download.
 - [ ] Work on upgrades to V 3.0 of the PCB
 - [ ] Build Replacement Board
 - [ ] Test
-- [ ] Reverse Engineer the Minibus board
+- [ ] Reverse Engineer the V2 Minibus board
 - [ ] Add 2 more Buss Connectors to the board for NEW hardware
 - [ ] More Ideas
