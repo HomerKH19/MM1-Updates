@@ -1,9 +1,10 @@
 # MM1-Updates
-MM/1 Software and Hardware Updates and Notes
 
-First of All, A big Thank You goes out to Paul Ward, from IMS, Inc. and Kevin Darling for Designing the MM/1 System.
+MM/1 Hardware & Software Updates and Notes.
 
-Update 10/23/2023
+10/25/2023
+
+First of All, A big Thank You goes out to Paul Ward, from IMS, Inc. and Kevin Darling for Designing the MM/1 System in the early 90's.
 
 I hope to soon get my MM/1 up and running with newer technology.
 
@@ -11,12 +12,16 @@ First is to start with an upgrade to the Minibus.
 
 I have a working prototype that supports the newer ATX Power Supply.
 
+See the picture of Pedro build:
+https://github.com/HomerKH19/MM1-Updates/blob/main/20230906_120140%20Copy.jpg
+
 Check this out for Memory Modules:
 https://www.youtube.com/watch?v=De5ufcDueRU&t=3920s
 
-A BIG THANKS goes out to the following people: Pedro Pena, Joel Ewy, David Graham.
+A BIG THANKS goes out to the following people's help: Pedro Pena, Joel Ewy & David Graham.
+The latter two helped with the troubleshooting back in the 90's for Paul & Kevin.
 
-See the picture of Pedro build:
+Here is the picture of Pedro's build:
 https://github.com/HomerKH19/MM1-Updates/blob/main/20230906_120140%20Copy.jpg
 
 Also the MM1 Tech Manual, Page 5-13 has been updated.
