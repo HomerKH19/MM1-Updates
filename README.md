@@ -30,9 +30,11 @@ A PDF of either BOM's are available to download.
 - [X] Make replacement backplane that accepts an ATX style PSU V 1.5
 - [X] Assemble and test
 - [X] Get Feedback
+- [ ] Reverse Engineer the V2 Minibus board (8 Meg)
 - [ ] Work on upgrades to V 3.0 of the PCB
+- [X] Add 2 more Buss Connectors to the board for NEW hardware
 - [ ] Build Replacement Board
 - [ ] Test
 - [ ] Reverse Engineer the V2 Minibus board
 - [ ] Add 2 more Buss Connectors to the board for NEW hardware
-- [ ] More Ideas
+- [ ] Get more ideas
