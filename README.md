@@ -2,7 +2,7 @@
 
 MM/1 Hardware & Software Updates and Notes.
 
-10/25/2023
+10/27/2023
 
 First of All, A big Thank You goes out to Paul Ward, from IMS, Inc. and Kevin Pease for Designing the MM/1 System in the early 90's.
 
