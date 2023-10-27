@@ -18,6 +18,9 @@ I have a working prototype that supports the newer ATX Power Supply.
 Here is the picture of Pedro's build:
 https://github.com/HomerKH19/MM1-Updates/blob/main/20230906_120140%20Copy.jpg
 
+Herei is a picture of my build:
+https://github.com/HomerKH19/MM1-Updates/blob/main/Screenshot%20(844)-180x2.png
+
 Check this out for Memory Modules:
 https://www.youtube.com/watch?v=De5ufcDueRU&t=3920s
 
