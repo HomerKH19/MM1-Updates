@@ -27,7 +27,7 @@ See the file:  https://github.com/HomerKH19/MM1-Updates/blob/main/MM1%20Bus%20Pi
 A PDF of either BOM's are available to download.
 
 ### Goals
-- [X] Make replacement backplane that accepts an ATX style PSU V 2.x
+- [X] Make replacement backplane that accepts an ATX style PSU V 1.5
 - [X] Assemble and test
 - [X] Get Feedback
 - [ ] Work on upgrades to V 3.0 of the PCB
