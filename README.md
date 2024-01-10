@@ -16,7 +16,7 @@ First is to start with an upgrade to the Minibus.
 I have a working prototype that supports the newer ATX Power Supply.
 
 Here is the picture of Pedro's build:
-https://github.com/HomerKH19/MM1-Updates/blob/main/20230906_120140%20Copy.jpg
+https://github.com/HomerKH19/MM1-Updates/blob/main/Org ATX Version.jpg
 
 Herei is a picture of my build:
 https://github.com/HomerKH19/MM1-Updates/blob/main/Screenshot%20(844)-180x2.png
