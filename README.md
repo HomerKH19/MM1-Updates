@@ -36,6 +36,6 @@ A PDF of either BOM's are available to download.
 - [X] Reverse Engineer the V2 Minibus board (8 Meg)
 - [X] Work on upgrades to V 3.0 of the PCB
 - [X] Add 2 more Buss Connectors to the board for NEW hardware
-- [X] Build Replacement Board - 50% done
+- [X] Build V3 Replacement Board - 50% done
 - [ ] Test
 - [ ] Get more ideas
