@@ -20,16 +20,21 @@ First is to start with an upgrade to the Minibus.
 I have a working prototype that supports the newer ATX Power Supply.
 
 Here is the picture of Pedro's build:
+
 https://github.com/HomerKH19/MM1-Updates/blob/main/Org%20ATX%20Version.jpg
 
 Here is a picture of my build:
+
 https://github.com/HomerKH19/MM1-Updates/blob/main/My%20ATX-X2%20Final.png
 
 Check this out for Memory Modules:
+
 https://www.youtube.com/watch?v=De5ufcDueRU&t=3920s
 
 Also the MM1 Tech Manual, Page 5-13 has been updated.
-See the file:  https://github.com/HomerKH19/MM1-Updates/blob/main/MM1%20Bus%20Pinout.pdf
+See the file:
+
+https://github.com/HomerKH19/MM1-Updates/blob/main/MM1%20Bus%20Pinout.pdf
 
 A PDF of either BOM's are available to download.
 
