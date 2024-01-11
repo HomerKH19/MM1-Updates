@@ -22,7 +22,7 @@ Here is the picture of Pedro's build:
 https://github.com/HomerKH19/MM1-Updates/blob/main/Org%20ATX%20Version.jpg
 
 Here is a picture of my build:
-https://github.com/HomerKH19/MM1-Updates/blob/main/My%20ATX-X2%20-%20Final.png
+https://github.com/HomerKH19/MM1-Updates/blob/main/My%20ATX-X2%20Final.png
 
 Check this out for Memory Modules:
 https://www.youtube.com/watch?v=De5ufcDueRU&t=3920s
