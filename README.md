@@ -12,6 +12,7 @@ The latter two helped with the troubleshooting back in the 90's for Paul & Kevin
 I hope to soon get my MM/1 up and running with a new ATX power supply.
 
 I did make an adapter for use with the MM/1 and the Tandy CM-8 Monitor.
+https://github.com/HomerKH19/MM1-Updates/blob/main/DB9toMM1.jpg
 
 First is to start with an upgrade to the Minibus.
 
