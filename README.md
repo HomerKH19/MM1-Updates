@@ -31,6 +31,10 @@ Check this out for Memory Modules:
 
 https://www.youtube.com/watch?v=De5ufcDueRU&t=3920s
 
+or buy them here:
+
+https://ko-fi.com/s/c3f82f22b9
+
 Also the MM1 Tech Manual, Page 5-13 has been updated.
 See the file:
 
