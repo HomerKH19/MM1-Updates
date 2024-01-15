@@ -27,7 +27,7 @@ Here is a picture of my build:
 
 https://github.com/HomerKH19/MM1-Updates/blob/main/My%20ATX-X2%20Final.png
 
-Check this out for Memory Modules:
+Check these Memory Modules out:
 
 https://www.youtube.com/watch?v=De5ufcDueRU&t=3920s
 
