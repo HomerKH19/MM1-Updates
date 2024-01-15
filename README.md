@@ -35,7 +35,7 @@ or buy them here:
 
 https://ko-fi.com/s/c3f82f22b9
 
-Joe's Computer Museum has the Blue SCSI Ver 2 Desktop SD Card Drive here that works with the MM/1:
+Joe's Computer Museum has the Blue SCSI Ver 2 Desktop SD Card Drive here, that works with the MM/1:
 
 https://jcm-1.com/product/bluescsi-v2-50-pin-desktop/
 
