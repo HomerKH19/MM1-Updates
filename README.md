@@ -35,12 +35,15 @@ or buy them here:
 
 https://ko-fi.com/s/c3f82f22b9
 
-Also the MM1 Tech Manual, Page 5-13 has been updated.
-See the file:
+Joe's Computer Museum has the Blue SCSI Ver 2 Desktop SD Card Drive here that works with the MM/1:
+
+https://jcm-1.com/product/bluescsi-v2-50-pin-desktop/
+
+Here is Page 5-13 of the MM/1 Tech Manual that has been updated:
 
 https://github.com/HomerKH19/MM1-Updates/blob/main/MM1%20Bus%20Pinout.pdf
 
-A PDF of either BOM's are available to download.
+A PDF of the BOM's are available to download also.
 
 ### Goals
 - [X] Make replacement backplane that accepts an ATX style PSU V 1.5
