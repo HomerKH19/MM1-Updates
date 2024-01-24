@@ -2,7 +2,9 @@
 
 MM/1 Hardware & Software Updates and Notes.
 
-01/15/2024
+01/23/2024
+
+Update: Got my MM/1 to boot. Partly.
 
 First of All, A big Thank You goes out to Paul Ward, from IMS, Inc. and Kevin Pease for Designing the MM/1 System in the early 90's.
 
