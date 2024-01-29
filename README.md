@@ -47,7 +47,7 @@ https://github.com/HomerKH19/MM1-Updates/blob/main/MM1%20Bus%20Pinout.pdf
 
 A PDF of the BOM's are available to download also.
 
-I have uploaded the CPU Board schematics that I have been recreating using KiCAD.
+I have uploaded the CPU Board Schematics that I have been recreating using KiCAD.
 
 ### Goals
 - [X] Make replacement backplane that accepts an ATX style PSU V 1.5
