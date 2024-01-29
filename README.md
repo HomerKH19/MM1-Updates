@@ -2,7 +2,7 @@
 
 MM/1 Hardware & Software Updates and Notes.
 
-01/24/2024
+01/29/2024
 
 Update: Got my MM/1 to boot using a ATX PS. Partly.
 
@@ -46,6 +46,8 @@ Here is Page 5-13 of the MM/1 Tech Manual that has been updated:
 https://github.com/HomerKH19/MM1-Updates/blob/main/MM1%20Bus%20Pinout.pdf
 
 A PDF of the BOM's are available to download also.
+
+I have uploaded the CPU Board schematics that I have been recreating using KiCAD.
 
 ### Goals
 - [X] Make replacement backplane that accepts an ATX style PSU V 1.5
