@@ -57,5 +57,5 @@ I have uploaded the CPU Board Schematics that I have been recreating using KiCAD
 - [X] Work on upgrades to V 3.0 of the Minibus
 - [X] Add 2 more Buss Connectors to the board for NEW hardware
 - [X] Build V3 Replacement Board - 50% done
-- [ ] Test
+- [X] Test
 - [ ] Get more ideas
