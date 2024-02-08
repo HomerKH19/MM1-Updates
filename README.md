@@ -2,25 +2,20 @@
 
 MM/1 Hardware & Software Updates and Notes.
 
-01/29/2024
+02/08/2024
 
 First of All, A big Thank You goes out to Paul Ward, from IMS, Inc. and Kevin Pease for Designing the MM/1 System in the early 90's.
 
 Also a BIG THANKS goes out to the following people's help: Pedro Pena, Joel Ewy & David Graham.
 The latter two helped with the troubleshooting back in the 90's for Paul & Kevin.
 
-I hope to soon get my MM/1 up and running with a new ATX power supply.
-
-Update: Got my MM/1 to boot using the NEW ATX Board. Partly.
-Trying to fine out which ROM's I have and if I have the correct PAL's
-
 I did make an adapter for use with the MM/1 and the Tandy CM-8 Monitor.
 
 https://github.com/HomerKH19/MM1-Updates/blob/main/DB9toMM1.jpg
 
-First is to start with an upgrade to the Minibus.
+First is to start with an upgrade to the Minibus. DONE!!
 
-I have a working prototype that supports the newer ATX Power Supply.
+Update: Got my MM/1 CPU Board to boot using the NEW ATX Board.
 
 Here is the picture of Pedro's build:
 
