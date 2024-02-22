@@ -56,6 +56,6 @@ I have uploaded the CPU Board Schematics that I have been recreating using KiCAD
 - [X] Reverse Engineer the V2 Minibus board (8 Meg)
 - [X] Work on upgrades to V 3.0 of the Minibus
 - [X] Add 2 more Buss Connectors to the board for NEW hardware
-- [X] Build V3 Replacement Board - 50% done
+- [X] Build V3 Replacement Board - 70% done
 - [X] Test
 - [ ] Get more ideas
