@@ -2,7 +2,9 @@
 
 MM/1 Hardware & Software Updates and Notes.
 
-02/08/2024
+02/22/2024
+
+Update: Got my MM/1 CPU Board to boot using the NEW ATX Board.
 
 First of All, A big Thank You goes out to Paul Ward, from IMS, Inc. and Kevin Pease for Designing the MM/1 System in the early 90's.
 
@@ -15,8 +17,6 @@ https://github.com/HomerKH19/MM1-Updates/blob/main/DB9toMM1.jpg
 
 First is to start with an upgrade to the Minibus. DONE!!
 
-Update: Got my MM/1 CPU Board to boot using the NEW ATX Board.
-
 Here is the picture of Pedro's build:
 
 https://github.com/HomerKH19/MM1-Updates/blob/main/Org%20ATX%20Version.jpg
@@ -25,17 +25,20 @@ Here is a picture of my build:
 
 https://github.com/HomerKH19/MM1-Updates/blob/main/My%20ATX-X2%20Final.png
 
-Check these Memory Modules out:
+1) If you have a newer PS/2 Keyboard, get this adapter to use it with:
+   https://www.ebay.com/itm/304764787978
 
-https://www.youtube.com/watch?v=De5ufcDueRU&t=3920s
+2) Check these Memory Modules out:
 
-or buy them here:
+   https://www.youtube.com/watch?v=De5ufcDueRU&t=3920s
 
-https://ko-fi.com/s/c3f82f22b9
+   or buy them here:
 
-Joe's Computer Museum has the Blue SCSI Ver 2 Desktop SD Card Drive here, that works with the MM/1:
+   https://ko-fi.com/s/c3f82f22b9
 
-https://jcm-1.com/product/bluescsi-v2-50-pin-desktop/
+3) Joe's Computer Museum has the Blue SCSI Ver 2 Desktop SD Card Drive here, that works with the MM/1:
+
+   https://jcm-1.com/product/bluescsi-v2-50-pin-desktop/
 
 Here is Page 5-13 of the MM/1 Tech Manual that has been updated:
 
