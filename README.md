@@ -25,7 +25,7 @@ Here is a picture of my build:
 
 https://github.com/HomerKH19/MM1-Updates/blob/main/My%20ATX-X2%20Final.png
 
-1) If you have a newer PS/2 Keyboard, get this adapter tht works with the MM/1:
+1) If you have a newer PS/2 Keyboard, get this adapter that works with the MM/1:
 
    https://www.ebay.com/itm/304764787978
 
