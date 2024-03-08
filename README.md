@@ -2,7 +2,7 @@
 
 MM/1 Hardware & Software Updates and Notes.
 
-02/22/2024
+03/08/2024
 
 Update: Got my MM/1 CPU Board to boot using the NEW ATX Board.
 
