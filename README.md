@@ -2,13 +2,13 @@
 
 MM/1 Hardware & Software Updates and Notes.
 
-03/08/2024
+07/22/2024
 
 Update: Got my MM/1 CPU Board to boot using the NEW ATX Board.
 
 First of All, A big Thank You goes out to Paul Ward, from IMS, Inc. and Kevin Pease for Designing the MM/1 System in the early 90's.
 
-Also a BIG THANKS goes out to the following people's help: Pedro Pena, Joel Ewy & David Graham.
+Also a BIG THANKS goes out to the following people's help: Pedro Pena, David Ladd, Joel Ewy & David Graham.
 The latter two helped with the troubleshooting back in the 90's for Paul & Kevin.
 
 I did make an adapter for use with the MM/1 and the Tandy CM-8 Monitor.
