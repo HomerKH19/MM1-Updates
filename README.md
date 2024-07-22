@@ -58,4 +58,5 @@ I have uploaded the CPU Board Schematics that I have been recreating using KiCAD
 - [X] Add 2 more Buss Connectors to the board for NEW hardware
 - [X] Build V3 Replacement Board - 70% done
 - [X] Test
+- [ ] Load the I/O board schematics into KiCAD and fix the errors
 - [ ] Get more ideas
