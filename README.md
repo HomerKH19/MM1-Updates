@@ -2,7 +2,7 @@
 
 MM/1 Hardware & Software Updates and Notes.
 
-07/22/2024
+09/20/2026
 
 Update: Got my MM/1 CPU Board to boot using the NEW ATX Board.
 
@@ -56,7 +56,7 @@ I have uploaded the CPU Board Schematics that I have been recreating using KiCAD
 - [X] Reverse Engineer the V2 Minibus board (8 Meg)
 - [X] Work on upgrades to V 3.0 of the Minibus
 - [X] Add 2 more Buss Connectors to the board for NEW hardware
-- [X] Build V3 Replacement Board - 70% done
+- [X] Build V3 Replacement Board - 80% done
 - [X] Test
 - [ ] Load the I/O board schematics into KiCAD and fix the errors
 - [ ] Get more ideas
