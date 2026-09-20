@@ -21,7 +21,7 @@ Here is the picture of Pedro's build:
 
 https://github.com/HomerKH19/MM1-Updates/blob/main/Org%20ATX%20Version.jpg
 
-Here is a picture of my build:
+Here is a picture of my ATX build:
 
 https://github.com/HomerKH19/MM1-Updates/blob/main/My%20ATX-X2%20Final.png
 
